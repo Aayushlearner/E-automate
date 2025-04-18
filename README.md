@@ -112,4 +112,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Project Preview
 
-![Email Automation Interface](./assets/app_screenshot.svg)
+![image](https://github.com/user-attachments/assets/29c129c3-0992-44f8-9a74-41f9ce2b8e1b)
+
