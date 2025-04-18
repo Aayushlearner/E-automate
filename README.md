@@ -109,3 +109,7 @@ streamlit run streamlit_app.py
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+## Project Preview
+
+![Email Automation Interface](./assets/app_screenshot.svg)
